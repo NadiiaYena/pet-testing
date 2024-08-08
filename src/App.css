@@ -2,7 +2,11 @@
     --text-primery: rgba(0, 0, 0, 0.87);
     --text-secondary:  rgba(113, 111, 111, 0.6);
 
+
 }
+/* .dark-theme {
+
+} */
 *{
     margin: 0;
     padding: 0;
